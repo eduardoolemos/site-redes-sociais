@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+    }
+    
+img{
+    width: 100vw;
+    }
+
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    background-color: red;
+    color: white;
+    padding: 100px;
+    font-size: 100px;
+    font-weight: bolder;
+    text-align: center;
+ }
